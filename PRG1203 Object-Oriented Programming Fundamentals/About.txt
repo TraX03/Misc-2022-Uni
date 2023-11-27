@@ -1,0 +1,27 @@
+My Contribution for Boat Racing Game Assignment
+Report:
+- Finalized the UML Relationship and UML Class diagrams
+- Helped with the Test Cases section
+
+Code:
+- Developed the Frozen and Multiplier classes
+- Contributed to the program's development, focusing on simplifying and applying more object-oriented programming concepts
+- Engaged in an iterative process of discovering and fixing bugs
+
+Final Exam Question was not available cause its a physical exam and the code is wrote using Eclipse software.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
