@@ -1,0 +1,30 @@
+As a group project, our objective involves exploring the current campus network infrastructure and subsequently designing a new campus network capable of accommodating four departments, each equipped with a minimum of 10 workstations. Additionally, our task includes proposing and executing security protocols in the event of a network attack. 
+
+
+MY CONTRIBUTION
+
+Report:
+- Analyzing the Existing Campus Network and documenting this segment in the report
+
+- Security Measures
+Note: However, there were errors in configuring the firewall, and the revised version is available in the PowerPoint slides for presentation purposes, discovered after the report submission.
+
+
+PPT Slides:
+- Slide 18 and onwards
+
+
+Cisco Packet Tracer:
+- Only involved in implementing security measures: Intrusion Prevention System (IPS) and configuring the firewall on computers
+
+
+
+
+
+
+
+
+
+
+
+
