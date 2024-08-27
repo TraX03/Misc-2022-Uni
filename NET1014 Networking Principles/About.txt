@@ -10,10 +10,6 @@ Report:
 Note: However, there were errors in configuring the firewall, and the revised version is available in the PowerPoint slides for presentation purposes, discovered after the report submission.
 
 
-PPT Slides:
-- Slide 18 and onwards
-
-
 Cisco Packet Tracer:
 - Only involved in implementing security measures: Intrusion Prevention System (IPS) and configuring the firewall on computers
 
