@@ -1,0 +1,10 @@
+My Contribution:
+- Wrote the A* Search section in Report 1.
+- Developed the A* search algorithm in Python.
+- Proofread, corrected, and improved the content in Group Report 2.
+
+
+
+
+
+
