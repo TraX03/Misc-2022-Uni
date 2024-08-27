@@ -1,3 +1,5 @@
+This folder contains files for the assignment project code and the final exam code.
+
 My Contribution for Boat Racing Game Assignment
 Report:
 - Finalized the UML Relationship and UML Class diagrams
@@ -8,8 +10,8 @@ Code:
 - Contributed to the program's development, focusing on simplifying and applying more object-oriented programming concepts
 - Engaged in an iterative process of discovering and fixing bugs
 
-Final Exam Question was not available cause its a physical exam and the code is wrote using Eclipse software.
 
+The final exam questions were unavailable as it was a physical exam, and the code was written using Eclipse software.
 
 
 
