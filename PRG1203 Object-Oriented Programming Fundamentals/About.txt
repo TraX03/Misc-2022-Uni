@@ -9,6 +9,7 @@ Code:
 - Developed the Frozen and Multiplier classes
 - Contributed to the program's development, focusing on simplifying and applying more object-oriented programming concepts
 - Engaged in an iterative process of discovering and fixing bugs
+- Construct the TopScores class
 
 
 The final exam questions were unavailable as it was a physical exam, and the code was written using Eclipse software.
