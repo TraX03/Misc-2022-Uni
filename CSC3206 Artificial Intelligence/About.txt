@@ -4,7 +4,9 @@ My Contribution:
 - Proofread, corrected, and improved the content in Group Report 2.
 
 
-
+Date: 11/10/2024
+Added: Treasure_Hunt_Visualization.py
+Description: Modified code to include visualization features for the treasure hunt using Matplotlib
 
 
 
